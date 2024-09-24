@@ -23,4 +23,5 @@ ul li {
 ul li a {
     color: #fff;
     font-family: sans-serif;
+    text-decoration: none;
 }
