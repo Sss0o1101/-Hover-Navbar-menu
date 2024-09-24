@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+ul {
+    width: fit-content;
+    border-radius: 4px;
+    display: flex;
+}
