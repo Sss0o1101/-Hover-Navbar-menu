@@ -19,3 +19,8 @@ ul li {
     border-radius: 4px;
     transition: .4s ease-in-out;
 }
+
+ul li a {
+    color: #fff;
+    font-family: sans-serif;
+}
