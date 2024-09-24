@@ -9,3 +9,9 @@ ul {
     padding: 4px;
     background-color: #222831;
 }
+
+ul li {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+}
