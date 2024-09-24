@@ -17,4 +17,5 @@ ul li {
     list-style: none;
     padding: 12px 16px;
     border-radius: 4px;
+    transition: .4s ease-in-out;
 }
