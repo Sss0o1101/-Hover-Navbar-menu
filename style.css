@@ -14,4 +14,7 @@ ul li {
     color: #fff;
     text-decoration: none;
     font-weight: 600;
+    list-style: none;
+    padding: 12px 16px;
+    border-radius: 4px;
 }
